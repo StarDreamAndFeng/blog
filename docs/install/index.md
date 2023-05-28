@@ -51,6 +51,8 @@
   pnpm docs:dev
   ```
 
-> VuePress 会在 `http://localhost:8080/` 启动一个热重载的开发服务器。当你修改你的 Markdown 文件时，浏览器中的内容也会自动更新。
+::: tip 提示
+VuePress 会在 `http://localhost:8080/` 启动一个热重载的开发服务器。当你修改你的 Markdown 文件时，浏览器中的内容也会自动更新。
+:::
 
 整个 VuePress 搭建完成！
